@@ -13,9 +13,6 @@ while True:
     print("5 delete a employe")
 
     print("6 exit")
-
-
-
     choice = int(input("Enter an option: "))
 
     if(choice==1):
